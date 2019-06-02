@@ -1,0 +1,13 @@
+{
+    "name": "uit/lighthouse",
+    "require": {
+        "nuwave/lighthouse": "^3.7"
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": [
+                "nuwave/lighthouse"
+            ]
+        }
+    }
+}

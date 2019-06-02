@@ -1,0 +1,11 @@
+plugin:
+    name: 'uit.lighthouse::lang.plugin.name'
+    description: 'uit.lighthouse::lang.plugin.description'
+    author: Uit
+    icon: oc-icon-share-alt
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Схемы
+        url: uit/lighthouse/schemes
+        icon: icon-share-alt

@@ -1,0 +1,19 @@
+tabs:
+    fields:
+        published:
+            label: Активность
+            span: auto
+            type: switch
+            tab: 'Tab 1'
+        name:
+            label: Название
+            span: left
+            type: text
+            tab: 'Tab 1'
+        schema:
+            label: Схема
+            size: huge
+            language: plain_text
+            span: left
+            type: codeeditor
+            tab: 'Tab 1'

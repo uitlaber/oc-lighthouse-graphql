@@ -1,0 +1,11 @@
+name: Схема
+modelClass: Uit\Lighthouse\Models\Schema
+form: $/uit/lighthouse/models/schema/fields.yaml
+defaultRedirect: uit/lighthouse/schemes
+create:
+    redirect: 'uit/lighthouse/schemes/update/:id'
+    redirectClose: uit/lighthouse/schemes
+update:
+    redirect: uit/lighthouse/schemes
+    redirectClose: uit/lighthouse/schemes
+preview: {  }
