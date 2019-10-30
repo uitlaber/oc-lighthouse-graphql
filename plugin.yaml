@@ -6,6 +6,6 @@ plugin:
     homepage: ''
 navigation:
     main-menu-item:
-        label: Схемы
+        label: 'uit.lighthouse::lang.navigation.schemes'
         url: uit/lighthouse/schemes
         icon: icon-share-alt
