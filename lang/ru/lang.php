@@ -4,6 +4,6 @@
         'description' => ''
     ],
     'navigation' => [
-        'scheme' => 'Схемы'
+        'schemes' => 'Схемы'
     ]
 ];
