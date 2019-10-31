@@ -1,5 +1,6 @@
 {
     "name": "uit/lighthouse",
+    "type": "october-plugin",
     "require": {
         "nuwave/lighthouse": "^3.7"
     },
