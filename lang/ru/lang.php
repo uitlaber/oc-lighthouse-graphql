@@ -3,7 +3,18 @@
         'name' => 'Lighthouse',
         'description' => ''
     ],
-    'navigation' => [
-        'schemes' => 'Схемы'
+    'models' => [
+        'schema' => [
+            'single' => 'Схема',
+            'plural' => 'Схемы',
+            'attributes' => [
+                'activity' => 'Активность',
+                'name' => 'Название',
+                'schema' => 'Схема'
+            ]
+        ]
+    ],
+    'global' => [
+        'updated_at' => 'Дата изменения'
     ]
 ];

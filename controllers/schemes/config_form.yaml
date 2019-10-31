@@ -1,4 +1,4 @@
-name: Схема
+name: 'uit.lighthouse::lang.models.schema.single'
 modelClass: Uit\Lighthouse\Models\Schema
 form: $/uit/lighthouse/models/schema/fields.yaml
 defaultRedirect: uit/lighthouse/schemes

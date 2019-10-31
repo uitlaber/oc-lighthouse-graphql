@@ -1,17 +1,17 @@
 tabs:
     fields:
         published:
-            label: Активность
+            label: 'uit.lighthouse::lang.models.schema.attributes.activity'
             span: auto
             type: switch
             tab: 'Tab 1'
         name:
-            label: Название
+            label: 'uit.lighthouse::lang.models.schema.attributes.name'
             span: left
             type: text
             tab: 'Tab 1'
         schema:
-            label: Схема
+            label: 'uit.lighthouse::lang.models.schema.single'
             size: huge
             language: plain_text
             span: left

@@ -3,8 +3,8 @@ columns:
         label: ID
         type: text
     name:
-        label: Название
+        label: 'uit.lighthouse::lang.models.schema.attributes.name'
         type: text
     updated_at:
-        label: 'Дата изменения'
+        label: 'uit.lighthouse::lang.global.updated_at'
         type: datetime

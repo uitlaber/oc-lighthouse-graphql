@@ -6,6 +6,6 @@ plugin:
     homepage: ''
 navigation:
     main-menu-item:
-        label: 'uit.lighthouse::lang.navigation.schemes'
+        label: 'uit.lighthouse::lang.models.schema.plural'
         url: uit/lighthouse/schemes
         icon: icon-share-alt
