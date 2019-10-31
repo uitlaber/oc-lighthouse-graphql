@@ -1,4 +1,4 @@
-title: Схемы
+title: 'uit.lighthouse::lang.models.schema.plural'
 modelClass: Uit\Lighthouse\Models\Schema
 list: $/uit/lighthouse/models/schema/columns.yaml
 recordUrl: 'uit/lighthouse/schemes/update/:id'

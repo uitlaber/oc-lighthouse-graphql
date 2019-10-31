@@ -1,6 +1,6 @@
 <?php Block::put('breadcrumb') ?>
     <ul>
-        <li><a href="<?= Backend::url('uit/lighthouse/schemes') ?>">Schemes</a></li>
+        <li><a href="<?= Backend::url('uit/lighthouse/schemes') ?>"><?= Lang::get('uit.lighthouse::lang.models.schema.plural'); ?></a></li>
         <li><?= e($this->pageTitle) ?></li>
     </ul>
 <?php Block::endPut() ?>
